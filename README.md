@@ -1,5 +1,5 @@
-# wordpress-webiste
-Certainly! Here's how you can rewrite the README in the first person:
+# wordpress-website
+
 
 ---
 
@@ -8,11 +8,7 @@ Certainly! Here's how you can rewrite the README in the first person:
 ## Overview
 This repository documents my journey of creating a free WordPress website in 2024, including obtaining free hosting and a domain name. I've compiled easy-to-follow instructions based on my own experience, so you too can set up your own WordPress website hassle-free.
 
-## Prerequisites
-Before diving in, make sure you have the following:
-- Basic knowledge of website creation
-- Access to the internet
-- A computer or mobile device
+
 
 ## My Steps
 Follow my footsteps to create your own free WordPress website:
