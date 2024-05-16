@@ -61,4 +61,4 @@ This is my personal blog created using wordpress.
 
 [LINK TO WORDPRESS SITE-]( https://surabhisblog.infinityfreeapp.com/)
 
-![Few screenshots](s1.jpeg)
+![Few screenshots](s1.png)
